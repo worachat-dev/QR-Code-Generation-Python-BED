@@ -58,8 +58,6 @@ After running the code, you'll see the generated QR code displayed directly in y
 ## Screenshots
 
 ![QR code Generation](./image00.png)
-![QR code Generation](./image01.png)
-![QR code Generation](./image02.png)
 
 ## License
 
