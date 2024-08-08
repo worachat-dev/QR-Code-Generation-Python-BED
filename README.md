@@ -1,5 +1,3 @@
-Here’s a draft for your `README.md` file based on the QR code generation study using Python in a Jupyter notebook:
-
 ---
 
 # QR Code Generation with Python in Jupyter Notebooks
@@ -57,9 +55,26 @@ generate_qr_code()
 
 After running the code, you'll see the generated QR code displayed directly in your Jupyter notebook. The image file `qr-code.png` is saved for further use or sharing.
 
+## Screenshots
+
+![QR code Generation](./image00.png)
+![QR code Generation](./image01.png)
+![QR code Generation](./image02.png)
+
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For any inquiries or issues, please contact me!
+
+## Author
+
+- **Worachat W, Dev.** - *Data Science, Engineering & Full Stack Dev. 2024*  
+  [LinkedIn](https://www.linkedin.com/in/brainwaves-your-ai-playground-82155961/) | [GitHub](https://github.com/worachat-dev) | [Facebook](https://web.facebook.com/NutriCious.Thailand)
+
+---
 
 ---
 
