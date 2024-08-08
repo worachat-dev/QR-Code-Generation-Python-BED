@@ -74,6 +74,4 @@ For any inquiries or issues, please contact me!
 
 ---
 
----
-
 This `README.md` provides a clear overview of the project, including installation instructions, usage steps, and a code example, helping users quickly understand how to use the QR code generation script in a Jupyter notebook.
